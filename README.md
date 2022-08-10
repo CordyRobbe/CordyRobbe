@@ -11,6 +11,10 @@ https://github.com/CordyRobbe/BAP
 In this thesis is research the effects of style transfer on object detection capabilities of AI.
 Comparing the result of normal object detection with the object detection on style transfered images.
 
+LeetCode - doing:
+https://leetcode.com/cordyrobbe/
+Casually making exercises to slowly master Java as main coding language.
+
 AI Internship - finished:
 https://github.com/CordyRobbe/Stage-KMSKB
 This internship was to try and help an art historian in detecting similar flowers in paintings. Because I wanted to use AI
