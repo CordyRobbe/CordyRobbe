@@ -1,6 +1,6 @@
-Hi! My name is Robbe Cordy
+Hi! My name is Robbe Cordy,
 Applied Computer Science/Artificial Intelligence student
-This Github page will be a dispaly of everything I've done so far and what I am currently working on.
+This Github page will be a display of everything I've done so far and what I am currently working on.
 If you have any question don't hesitate to ask me!
 
 LinkedIn:
