@@ -25,3 +25,6 @@ AI In Comics - finished:
 https://github.com/CordyRobbe/AI-in-comics-cartoons
 Project in group where the idea was to implement AI in the coloring process of comics.
 Tried different approaches such as GAN, we eventually decicded that a combination of classic coding and AI gave the best result.
+
+Finally I have a github with seminars I have followed on which I might comment or are just interesting in general.
+https://github.com/CordyRobbe/Seminars
